@@ -2,7 +2,6 @@
 published: true
 layout: default
 title: Test
-permalink: /test/
 filename: test.md
 ---
 
