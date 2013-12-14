@@ -1,5 +1,9 @@
 ---
-title: This will be used as the title-tag of the page head
+published: true
+layout: default
+title: Test
+permalink: /test/
+filename: test.md
 ---
 
 # This is a H1
