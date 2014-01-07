@@ -7,7 +7,7 @@ url:              http://adiwg.github.io
 # Owner/author information
 owner:
   name:           Alaska Data Integration Working Group
-  avatar:         logo150x150.png
+  avatar:         logo-basic-150.png
   bio:            "Working on methods to efficiently integrate and share data."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -35,7 +35,7 @@ links:
   - title: News
     url: /news/
   - title: Projects
-    url: /test/
+    url: /projects/
   - title: GitHub
     url: https://github.com/adiwg
     external: true

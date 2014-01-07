@@ -1,9 +1,13 @@
 ---
 published: true
 layout: page
-title: Test
-permalink: /test/
-filename: test.md
+title: Projects
+permalink: /projects/
+filename: projects.md
+image:
+  feature: header1024-4.png
+  credit: ADIwg
+  creditlink:
 ---
 
 <section id="table-of-contents" class="toc">
