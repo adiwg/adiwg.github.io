@@ -1,3 +1,5 @@
+/.settings/com.eclipsesource.jshint.ui.prefs
+/.project
 _site
 .DS_Store
 *.sublime-project
