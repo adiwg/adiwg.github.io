@@ -1,29 +1,65 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
+title: About ADIwg
 tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+tags: [about, ADIwg, data, data integration]
 modified: 9-9-2013
 image:
   feature: header1024-2.png
-  credit: ADIwg
+  credit:
   creditlink:
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography.
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Contents</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-## Minimal Mistakes is all about:
+## ADIwg Overview and Goals
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+The *Alaska Data Integration Working Group* (ADIwg)[^1] was formed to examine and address the technical barriers to
+efficiently integrate and share data within and among participating organizations.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+ADIwg evolved from, and supports the common interests of, the [North Slope Science Initiative Oversight Group (NSSI)](http://www.northslope.org/),
+[Alaska Ocean Observing System Board (AOOS)](http://www.aoos.org/), the [Arctic Research Mapping Application (ARMAP)](http://armap.org/),
+[North Pacific Research Board (NPRB)](http://www.nprb.org/),
+the [Alaska Climate Change Executive Roundtable (ACCER)](http://www.aoos.org/adiwg/accer/), and their member agencies.
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+## Mission Phases
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+From the outset, ADIwg divided its broad mission into three phases:
+{: .withlist}
+
+1. manage and exchange ‘project’ metadata
+2. manage and exchange ‘data’ metadata
+3. exchange data
+
+### Phase 1: Project Metadata
+
+The objective is to make exploring and coordinating **project metadata** across all participating organizations seamless through
+the adoption of an interagency standard and protocol. Version 1 of the ADIwg Project Metadata Standard has been completed. However,
+work is currently ongoing on Version 2. See the respective [Project][projects] pages for more information.
+
+### Phase 2: Data Metadata
+
+The objective is to make exploring and coordinating **data metadata** across all participating organizations seamless through
+the adoption of an interagency standard and protocol. Work on Version 1 of the ADIwg Data Metadata Standard is currently on-going.
+Additionally, as part of the mdTranslator project, ADIwg is developing an open source tool that transforms ADIwg metadata into various formats,
+including standards based on [ISO 19139](http://en.wikipedia.org/wiki/Geospatial_metadata#ISO_19139_Geographic_information_Metadata_XML_schema_implementation).
+See the respective [Project][projects] pages for more information.
+
+### Phase 3: Data Exchange
+
+The objective is to make exploring and exchanging **data** across all participating organizations seamless through
+the adoption of an interagency standard and protocol. Work on this phase has not begun.
+
+
+[^1]: Pronounced *add-ee-wig*
+
+[projects]: {{ site.url }}/projects

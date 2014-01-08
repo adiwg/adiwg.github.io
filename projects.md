@@ -6,7 +6,7 @@ permalink: /projects/
 filename: projects.md
 image:
   feature: header1024-4.png
-  credit: ADIwg
+  credit:
   creditlink:
 ---
 

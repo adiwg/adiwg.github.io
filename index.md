@@ -4,6 +4,6 @@ description: "A responsive Jekyll theme with editorial tendencies by designer Mi
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: header1024-1.png
-  credit: ADIwg
+  credit:
   creditlink:
 ---
