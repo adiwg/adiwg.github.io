@@ -20,9 +20,6 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-# This is a H1
+## mdTranslator
 
-[the clickable text](http://xlson.com/)
-
-* Bullet lists are also easy to create
-* One more
+[Link to project page](/mdTranslator)
