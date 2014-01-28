@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Alaska Data Integration Working Group: Working on methods to efficiently integrate and share data."
+tags: [Alaska, data, integration]
 image:
   feature: header1024-1.png
   credit:
