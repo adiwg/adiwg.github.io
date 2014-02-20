@@ -81,6 +81,7 @@ ADIwg formed two subgroups: a policy group and a technical group.
 <a href="http://alaska.usgs.gov/"><img alt="U.S. Geological Survey" src="{{ site.url }}/images/logos/usgs_logo.jpg" title="U.S. Geological Survey" /></a>
 </div>
 
+***
 [^1]: Pronounced *add-ee-wig*
 
 [projects]: {{ site.url }}/projects
