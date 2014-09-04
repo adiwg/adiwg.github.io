@@ -34,13 +34,6 @@ The current version of ADIwg *Project* metadata has been mapped to ISO 19115/191
 **More info**: Page under development.\\
 <i class="icon-github"> </i> **GitHub**: [Project Metadata Standard (ISO) Github Repository](https://github.com/adiwg/project-metadata-iso)
 
-####Data Metadata Standard
-
-The ADIwg *Data* metadata standard has been mapped to ISO 19115/19110. Data metadata is also supported by an ISO-compatible JSON standard. The JSON serves as a lightweight alternative for sharing metadata amongst ADIwg members. The [mdTranslator](#mdtranslator) application allows conversion to other formats for sharing with external partners.\\
-\\
-**More info**: Page under development.\\
-<i class="icon-github"> </i> **GitHub**: [Data Metadata Standard Github Repository](https://github.com/adiwg/data-metadata)
-
 ####Project Metadata Standard (FGDC) [^inactive]
 
 The original version of ADIwg *Project* metadata mapped many of the fields to the Federal Geographic Data Committee (FGDC) metadata standard and Keyhole Markup Language (KML) for spatial domain information.\\
@@ -49,6 +42,15 @@ The original version of ADIwg *Project* metadata mapped many of the fields to th
 <i class="icon-github"> </i> **GitHub**: [Project Metadata Standard (FGDC) Github Repository](https://github.com/adiwg/project-metadata-fgdc)
 
 [^inactive]: This project has been deprecated in favor of the [ISO-based](#project-metadata-standard-iso) metadata standard.
+
+***
+
+####Data Metadata Standard
+
+The ADIwg *Data* metadata standard has been mapped to ISO 19115/19110. Data metadata is also supported by an ISO-compatible JSON standard. The JSON serves as a lightweight alternative for sharing metadata amongst ADIwg members. The [mdTranslator](#mdtranslator) application allows conversion to other formats for sharing with external partners.\\
+\\
+**More info**: Page under development.\\
+<i class="icon-github"> </i> **GitHub**: [Data Metadata Standard Github Repository](https://github.com/adiwg/data-metadata)
 
 ***
 
