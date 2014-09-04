@@ -45,7 +45,7 @@ The original version of ADIwg *Project* metadata mapped many of the fields to th
 
 ***
 
-####Data Metadata Standard
+###Data Metadata Standard
 
 The ADIwg *Data* metadata standard has been mapped to ISO 19115/19110. Data metadata is also supported by an ISO-compatible JSON standard. The JSON serves as a lightweight alternative for sharing metadata amongst ADIwg members. The [mdTranslator](#mdtranslator) application allows conversion to other formats for sharing with external partners.\\
 \\
