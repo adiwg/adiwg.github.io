@@ -3,7 +3,7 @@ published: true
 layout: page
 title: mdTools
 permalink: "/projects/mdTools/"
-redirect_from: "/mdJson-schema-viewer/index.html"
+redirect_from: "/mdJson-schema-viewer/"
 filename: mdtools-intro.md
 image:
   feature: header1024-4.png
