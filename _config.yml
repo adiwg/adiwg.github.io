@@ -2,7 +2,7 @@ title: ADIwg
 tagline:
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://adiwg.github.io
+#url:              http://localhost:4000
 url:              http://www.adiwg.org
 
 # Owner/author information
@@ -44,7 +44,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Anchorage
 future:      true
-pygments:    true
+highlighter:    pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -66,3 +66,6 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Gemfile", "Gemfile.lock", "README.md", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+gems:
+  - jekyll-redirect-from

@@ -54,6 +54,14 @@ The ADIwg *Data* metadata standard has been mapped to ISO 19115/19110. Data meta
 
 ***
 
+### mdJSON Schemas
+ADIwg has developed a set of JSON schemas to provide documentation and validation for project and data ADIwg JSON metadata.\\
+\\
+**More info**: Page under development.\\
+<i class="icon-github"> </i> **GitHub**: [mdJSON Schemas Github Repository](https://github.com/adiwg/mdJson-schemas)
+
+***
+
 ###mdTranslator
 
 To support the JSON standard ADIwg is developing the mdTranslator, a software 'engine' that converts metadata in the ADiwg JSON structure to other metadata formats, including ISO 19115-2. While the mdTranslator's primary purpose is to transform metadata stored in the ADIwg JSON standard, the architecture of the translator allows for possible conversion between many other formats. The basic process is illustrated in the figure below:
@@ -70,11 +78,11 @@ The mdTranslator isolates metadata creators from the complexity, rigor, formatti
 
 ***
 
-### ADIwg JSON Schemas
-ADIwg has developed a set of JSON schemas to provide documentation and validation for project and data ADIwg JSON metadata.\\
+### mdTools
+ADIwg has developed a friendly user interface for accessing ADIwg metadata tools.\\
 \\
-**More info**: Page under development.\\
-<i class="icon-github"> </i> **GitHub**: [ADIwg JSON Schemas Github Repository](https://github.com/adiwg/adiwg-json-schemas)
+**More info**: [mdTools Project Page](mdTools).\\
+<i class="icon-github"> </i> **GitHub**: [mdTools Github Repository](https://github.com/adiwg/mdTools)
 
 ***
 

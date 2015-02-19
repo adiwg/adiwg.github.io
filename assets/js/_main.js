@@ -26,11 +26,24 @@ $(document).ready(function() {
       preload: [0,1] // Will preload 0 - before current, and 1 after the current image
     },
     image: {
-      tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
+      tError: '<a href="%url%">Image #%curr%</a> could not be loaded.'
     },
     removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open. 
+    // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
+  });
+});
+//Deep links
+$(function() {
+  return $("h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, icon, id;
+    $el = $(el);
+    id = $el.attr('id');
+    //icon = '<i class="fa fa-link"></i>';
+    icon = '<i class="anchorjs-icon"></i>';
+    if (id) {
+      return $el.append($("<a />").addClass("anchorjs-link").attr("href", "#" + id).html(icon));
+    }
   });
 });
