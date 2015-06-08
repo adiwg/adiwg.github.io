@@ -32,7 +32,7 @@ Due to the importance of data integration with our international partners, ADIwg
 The current version of ADIwg *Project* metadata has been mapped to ISO 19115/19110. Due to the complexity of the ISO standards, ADIwg chose simplify implementation by creating an ISO-compatible JSON standard. The JSON serves as a lightweight alternative for sharing metadata amongst ADIwg members. The [mdTranslator](#mdtranslator) application allows conversion to other formats for sharing with external partners.\\
 \\
 **More info**: Page under development.\\
-<i class="icon-github"> </i> **GitHub**: [Project Metadata Standard (ISO) Github Repository](https://github.com/adiwg/project-metadata-iso)
+<i class="icon-github"> </i> **GitHub**: [ADIwg ISO Metadata Profile Github Repository](https://github.com/adiwg/adiwg-metadata/iso)
 
 ####Project Metadata Standard (FGDC) [^inactive]
 
@@ -50,7 +50,7 @@ The original version of ADIwg *Project* metadata mapped many of the fields to th
 The ADIwg *Data* metadata standard has been mapped to ISO 19115/19110. Data metadata is also supported by an ISO-compatible JSON standard. The JSON serves as a lightweight alternative for sharing metadata amongst ADIwg members. The [mdTranslator](#mdtranslator) application allows conversion to other formats for sharing with external partners.\\
 \\
 **More info**: Page under development.\\
-<i class="icon-github"> </i> **GitHub**: [Data Metadata Standard Github Repository](https://github.com/adiwg/data-metadata)
+<i class="icon-github"> </i> **GitHub**: [ADIwg ISO Metadata Profile Github Repository](https://github.com/adiwg/adiwg-metadata/iso)
 
 ***
 
