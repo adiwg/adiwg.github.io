@@ -14,7 +14,7 @@ image:
 mdTools is a friendly user interface for accessing ADIwg tools. The tools may be accessed
 at <{{ site.url }}/mdTools>.
 
-##Tools
+## Tools
 
 - **[mdJSON Schema Viewer]({{ site.url }}/mdTools#viewer-page)**
 
