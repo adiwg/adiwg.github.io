@@ -21,20 +21,20 @@ image:
 </section><!-- /#table-of-contents -->
 The following is a listing of projects that ADIwg has sponsored.
 
-###Project Metadata
+### Project Metadata
 
 In 2010, ADIwg adopted a set of common fields for use in exchanging discovery level information about the who, what, when and where of projects in Alaska. In order to expedite the exchange of information, these fields were mapped to an Extensible Markup Language (XML) schema [released in 2011](#project-metadata-standard-fgdc-inactive). Some agencies provide project information as static XML documents and others have implemented RESTful endpoints to facilitate access to updated information.
 
 Due to the importance of data integration with our international partners, ADIwg chose to base future versions on the ISO 19115/19110 family of metadata standards.
 
-####Project Metadata Standard (ISO)
+#### Project Metadata Standard (ISO)
 
 The current version of ADIwg *Project* metadata has been mapped to ISO 19115/19110. Due to the complexity of the ISO standards, ADIwg chose simplify implementation by creating an ISO-compatible JSON standard. The JSON serves as a lightweight alternative for sharing metadata amongst ADIwg members. The [mdTranslator](#mdtranslator) application allows conversion to other formats for sharing with external partners.\\
 \\
 **More info**: Page under development.\\
 <i class="icon-github"> </i> **GitHub**: [ADIwg ISO Metadata Profile Github Repository](https://github.com/adiwg/adiwg-metadata/tree/master/iso)
 
-####Project Metadata Standard (FGDC) [^inactive]
+#### Project Metadata Standard (FGDC) [^inactive]
 
 The original version of ADIwg *Project* metadata mapped many of the fields to the Federal Geographic Data Committee (FGDC) metadata standard and Keyhole Markup Language (KML) for spatial domain information.\\
 \\
@@ -45,7 +45,7 @@ The original version of ADIwg *Project* metadata mapped many of the fields to th
 
 ***
 
-###Data Metadata Standard
+### Data Metadata Standard
 
 The ADIwg *Data* metadata standard has been mapped to ISO 19115/19110. Data metadata is also supported by an ISO-compatible JSON standard. The JSON serves as a lightweight alternative for sharing metadata amongst ADIwg members. The [mdTranslator](#mdtranslator) application allows conversion to other formats for sharing with external partners.\\
 \\
