@@ -62,7 +62,7 @@ ADIwg has developed a set of JSON schemas to provide documentation and validatio
 
 ***
 
-###mdTranslator
+### mdTranslator
 
 To support the JSON standard ADIwg is developing the mdTranslator, a software 'engine' that converts metadata in the ADiwg JSON structure to other metadata formats, including ISO 19115-2. While the mdTranslator's primary purpose is to transform metadata stored in the ADIwg JSON standard, the architecture of the translator allows for possible conversion between many other formats. The basic process is illustrated in the figure below:
 
