@@ -3,7 +3,7 @@ tagline:
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
-url:              http://www.adiwg.org
+url:              https://www.adiwg.org
 
 # Owner/author information
 owner:
@@ -44,7 +44,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Anchorage
 future:      true
-highlighter:    pygments
+highlighter:    rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
